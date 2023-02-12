@@ -1,0 +1,15 @@
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\bin\Debug\net6.0\task6_DZ.exe
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\bin\Debug\net6.0\task6_DZ.deps.json
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\bin\Debug\net6.0\task6_DZ.runtimeconfig.json
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\bin\Debug\net6.0\task6_DZ.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\bin\Debug\net6.0\task6_DZ.pdb
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\obj\Debug\net6.0\task6_DZ.csproj.AssemblyReference.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\obj\Debug\net6.0\task6_DZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\obj\Debug\net6.0\task6_DZ.AssemblyInfoInputs.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\obj\Debug\net6.0\task6_DZ.AssemblyInfo.cs
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\obj\Debug\net6.0\task6_DZ.csproj.CoreCompileInputs.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\obj\Debug\net6.0\task6_DZ.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\obj\Debug\net6.0\refint\task6_DZ.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\obj\Debug\net6.0\task6_DZ.pdb
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\obj\Debug\net6.0\task6_DZ.genruntimeconfig.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 1\Seminar1_C#\task6_DZ\obj\Debug\net6.0\ref\task6_DZ.dll
